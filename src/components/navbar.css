@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  font-size: 2rem;
+  color: purple;
+}
+
+.logo-name {
+  color: magenta;
+}
